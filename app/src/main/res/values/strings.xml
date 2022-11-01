@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComposeFoodOrderApp</string>
+    <string name="menu">Menu</string>
+    <string name="scan">Scan</string>
+    <string name="checkout">Checkout</string>
+    <string name="onboarding_guidance_title">What do you feel like eating?</string>
+    <string name="onboarding_guidance_subtitle">Pick food items by clicking the plus icon, to add them to cart.</string>
+    <string name="top_app_bar_preview_title">Menu</string>
+    <string name="top_app_bar_navigation_button_content_desc">Top app bar navigation button content description.</string>
+    <string name="menu_loading">Loading</string>
+    <string name="adding_to_cart">Add to cart</string>
+    <string name="not_adding_to_cart">Remove from cart</string>
+</resources>
